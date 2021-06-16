@@ -354,6 +354,7 @@ MigrationBackup/
 /workspace.xml
 
 # Rider ignored files
+/.idea/
 /.idea.GameJolt-GameAPI.iml
 /contentModel.xml
 /modules.xml
